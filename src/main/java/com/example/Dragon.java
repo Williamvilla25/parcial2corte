@@ -1,8 +1,5 @@
 package com.example;
 
-/**
- * Subclase concreta Dragon que extiende de Criatura.
- */
 public class Dragon extends Criatura {
     private String escamas; // Atributo único del Dragón según el diagrama de clases
 

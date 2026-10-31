@@ -1,8 +1,6 @@
 package com.example;
 
-/**
- * Clase abstracta que representa una criatura genérica en el juego de batallas.
- */
+
 public abstract class Criatura {
     protected String nombre;
     protected int salud;
