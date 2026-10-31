@@ -13,7 +13,8 @@ Estructuración inicial y buenas prácticas: La IA nos guio en la transición de
 * Resolver dudas de sintaxis sobre la implementación correcta del polimorfismo desde la clase Main.
 * Creatividad y diseño de clases: Nos ayudó a estructurar la lógica de la cuarta criatura ("Abelardo"), definiendo cómo integrar atributos únicos y escalar el daño extra respetando las reglas del polimorfismo.;
 * Refinar la lógica de reducción de daño en los métodos de defensa para evitar que la salud de los personajes cayera en valores negativos.
-* y pues en las clases del README
+* Y pues en las clases del README
+* Y en las pruebas unitarias
 
 ## Diagrama de Clases
 A continuación se presenta la estructura orientada a objetos de nuestro proyecto.
